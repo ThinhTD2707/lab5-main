@@ -36,7 +36,7 @@ class Menu extends Component {
     if (dish != null)
           return(
               <Card>
-                <h2>Comments </h2>                 
+                <h2>Commentss </h2>                 
                   <CardBody>
                     <div>{dish.comments.map((cm, index)=>(
                         <div key={index}>{cm.comment} 
