@@ -143,7 +143,7 @@ export const DISHES =
         image: 'assets/images/elaicheesecake.png',
         category: 'dessert',
         label:'',
-        price:'3.99',
+        price:'2.99',
         description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
         comments: [
             {
